@@ -18,7 +18,7 @@ $student_names = array("Ryan","Stan","Wendy","Kenny","Eric","Sharon","Wellington
 // $var = []; is equivalent to $var = array();
 
 $student_info = [
-    1 => ["Mr.", Ryan, "Rodd", 25, "Packers", 0],
+    1 => ["Mr.", "Ryan", "Rodd", 25, "Packers", 0],
     2 => ["Mr.", "Stan", "Marsh", "11", "Broncos", 1],
     3 => ["Ms.", "Wendy", "Testaburger", "12", "Seahawks", 1],
     4 => ["Mr.", "Kenny", "McKormick", "12", "Raiders", 1],
