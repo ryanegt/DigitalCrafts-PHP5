@@ -4,7 +4,7 @@
  * A lesson on PHP's most usefull data structure, the array.
  * Quick aside: In the wild, array's will hardly ever be explicitly defined, 
  * as they are here. Rather we will fetch results from a file or database and 
- * store them in an array. print_r()
+ * store them in an array. print_r() is a VERY helpfull function.
  */
  
 // Lets start with a simple example
